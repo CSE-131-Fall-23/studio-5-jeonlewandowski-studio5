@@ -10,7 +10,7 @@ import studio5.Methods;
 
 /**
  * @author Dennis Cosgrove (http://www.cse.wustl.edu/~cosgroved/)
- */
+ */ 
 @FixMethodOrder(MethodSorters.NAME_ASCENDING)
 public class SubstituteAllTest {
 	@Test
